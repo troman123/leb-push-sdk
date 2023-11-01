@@ -172,7 +172,7 @@ graph TD;
 ### 6>SDK
 #### 6.1> linux version sdk:
     SDK donwload latest version：
-    https://media-frame-1258344699.cos.ap-nanjing.myqcloud.com/tstan/xp2p/leb_push_sdk_linux_release_v_1.1.1_aff08326d6_md8917833492_2023_07_25_14_57.zip
+    https://media-frame-1258344699.cos.ap-nanjing.myqcloud.com/tstan/xp2p/leb_push_sdk_linux_release_v_1.1.2_34e32e4ebe_md96f396a453_2023_11_01_20_57.zip
     
     sdk content：
     leb_push_sdk  
