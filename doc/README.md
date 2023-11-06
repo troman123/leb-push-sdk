@@ -124,8 +124,8 @@
 ### 4> LEB-PUSH sdk Flowchart
 ```mermaid
 graph TD;
-    A[initialize LebConfig]-->B[create-Pusher:OpenLebPusherV2];
-    B-->C[start-Pusher:StartLebPusher];
+    A[initialize LebConfig]-->B[create Pusher:OpenLebPusherV2];
+    B-->C[start Pusher:StartLebPusher];
     C-->D[write into A/V media data onEncodedVideo/onEncodedAudio];
     D-->StopLebPusher;
     StopLebPusher-->CloseLebPusher;
