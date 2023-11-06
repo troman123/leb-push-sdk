@@ -36,7 +36,7 @@
             //     "os":"15.5",
             //     "device" :"linux",
             //     "abi" : "x64",
-            //     "stack" "崩溃堆栈",
+            //     "stack" "crash stack",
             //   },
             //   {
             //     "time:":"2023-03-23 20:43:52",
@@ -44,7 +44,7 @@
             //     "os":"15.5",
             //     "device" :"ios",
             //     "abi" : "arm64",
-            //     "stack" "崩溃堆栈",
+            //     "stack" "crash stack",
             //   }
             //   ]
           const char* last_bug_json;
